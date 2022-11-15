@@ -1,2 +1,1 @@
-# discord-streaming-status
-Add usage
+paste ur token in config.json and just run main.py
