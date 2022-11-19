@@ -14,4 +14,5 @@
 5. Paste your Discord token in config.json
 6. `python3 main.py`
 
-![streaming-status](paste link here after commit)
+![streaming-status](https://raw.githubusercontent.com/thetoxiu/discord-streaming-status/master/discord-streaming-status.png)<br>
+![streaming-status](https://raw.githubusercontent.com/thetoxiu/discord-streaming-status/master/discord-streaming-status1.png)
