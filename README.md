@@ -2,9 +2,6 @@
 
 Sets the purple **Streaming** status on your own Discord account.
 
-![streaming-status](https://raw.githubusercontent.com/thetoxiu/discord-streaming-status/master/discord-streaming-status.png)<br>
-![streaming-status](https://raw.githubusercontent.com/thetoxiu/discord-streaming-status/master/discord-streaming-status1.png)
-
 > ⚠️ This is a selfbot (it logs in with your user token). Automating user accounts
 > is against Discord's Terms of Service and can get your account disabled. Use at your own risk.
 
